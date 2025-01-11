@@ -1,3 +1,3 @@
 # segundo-repositorio
 
-see you later
+bye bye
