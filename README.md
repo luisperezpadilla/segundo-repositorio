@@ -1,3 +1,3 @@
 # segundo-repositorio
 
-ya ENTENDI 
+al fin 
