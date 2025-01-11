@@ -1,6 +1,3 @@
 # segundo-repositorio
 
-saludos hermano
-
-
-saludos 2
+ya ENTENDI 
